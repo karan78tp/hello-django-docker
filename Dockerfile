@@ -12,4 +12,4 @@ ADD hellodjango /opt/hellodjango
 WORKDIR /opt/hellodjango/
 
 EXPOSE 8000
-CMD ["/opt/hellodjango/run.sh"]
+
