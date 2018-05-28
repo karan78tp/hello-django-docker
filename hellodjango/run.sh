@@ -12,3 +12,4 @@ fi
 
 # Launch WSGI app with multiple Gunicorn workers
 $VENV/bin/gunicorn -w4 -b 0.0.0.0:8000 hellodjango.wsgi:application
+### loda hello
